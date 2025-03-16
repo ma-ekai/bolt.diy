@@ -1,5 +1,7 @@
 ARG BASE=node:20
 FROM ${BASE} AS base
+RUN apt-get update && apt-get install -y git
+
 
 WORKDIR /app
 
