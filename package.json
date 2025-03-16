@@ -74,8 +74,7 @@
     "@radix-ui/react-switch": "^1.1.1",
     "@radix-ui/react-tabs": "^1.1.2",
     "@radix-ui/react-tooltip": "^1.1.4",
-    "@remix-run/cloudflare": "^2.15.2",
-    "@remix-run/cloudflare-pages": "^2.15.2",
+  
     "@remix-run/node": "^2.15.2",
     "@remix-run/react": "^2.15.2",
     "@tanstack/react-virtual": "^3.13.0",
@@ -131,7 +130,7 @@
   },
   "devDependencies": {
     "@blitz/eslint-plugin": "0.1.0",
-    "@cloudflare/workers-types": "^4.20241127.0",
+   
     "@iconify-json/ph": "^1.2.1",
     "@iconify/types": "^2.0.0",
     "@remix-run/dev": "^2.15.2",
